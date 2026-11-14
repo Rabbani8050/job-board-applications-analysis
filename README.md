@@ -42,7 +42,5 @@ pip install pandas numpy matplotlib jupyter
 jupyter notebook analysis.ipynb      # Restart & Run All
 # or
 python analysis.py job-board-applications.csv
-```
 
-## AI disclosure
-The code, chart and note were drafted with Claude (an AI assistant). Numbers can be verified by re-running the notebook.
+
